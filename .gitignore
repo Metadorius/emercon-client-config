@@ -1,8 +1,22 @@
-
+# Compiled binaries
 Resources/Binaries/
-
 Resources/clientdx\.exe
-
 Resources/clientogl\.exe
-
 Resources/clientxna\.exe
+
+# Windows thumbnail cache files
+**/Thumbs.db
+**/ehthumbs.db
+**/ehthumbs_vista.db
+
+# Dump file
+**/*.stackdump
+
+# Folder config file
+**/[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+**/$RECYCLE.BIN/
+
+# Windows shortcuts
+**/*.lnk
