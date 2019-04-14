@@ -20,3 +20,23 @@ Resources/clientxna\.exe
 
 # Windows shortcuts
 **/*.lnk
+
+RA2MD\.ini
+
+Client/
+
+libwine\.dll
+
+wined3d\.dll
+
+ddraw\.dll
+
+game\.fnt
+
+ddraw\.ini
+
+aqrit\.cfg
+
+dxwnd\.dll
+
+dxwnd\.ini
