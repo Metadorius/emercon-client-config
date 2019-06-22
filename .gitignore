@@ -44,3 +44,9 @@ dxwnd\.ini
 spawn\.ini
 
 spawnmap\.ini
+
+temp
+
+Release/
+
+version
